@@ -1,9 +1,9 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 
-# hello-react-front-end
+# hello-react-front-end2
 
-> Implement a connection between a Ruby on Rails back-end and React front-end.
+> Implement a connection between a Ruby on Rails back-end and React front-end and it displays random text from backend.
 
 
 ## Built With
